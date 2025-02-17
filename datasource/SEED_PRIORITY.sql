@@ -1,0 +1,3 @@
+insert into PRIORITY (id, title, priority_level, created_by, created_datetime, updated_by, updated_datetime) values (1, 'Sierra Romeo Hotel Foxtrot Bravo Lima Kilo Uniform November India Oscar Delta Tango', 1, 'fhamshar0', '05/07/2024', 'hgorghetto0', '07/02/2025');
+insert into PRIORITY (id, title, priority_level, created_by, created_datetime, updated_by, updated_datetime) values (2, 'Echo Alfa Whiskey X-ray Foxtrot Oscar Sierra Delta Zulu Quebec November', 2, 'aottawell1', '31/07/2024', 'hkingaby1', '26/01/2025');
+insert into PRIORITY (id, title, priority_level, created_by, created_datetime, updated_by, updated_datetime) values (3, 'Uniform Papa Delta Bravo Foxtrot Sierra Tango Mike Romeo Kilo Alfa Echo Hotel', 3, 'glukash2', '15/11/2024', 'jcrisell2', '29/01/2025');
